@@ -1,0 +1,87 @@
+READY-TO-PASTE PROMPT
+
+Design and develop a modern, visually strong website for a wholesale embroidery business.
+
+Business Name: AR Embroidery House
+Location: Post Office Barki Road, Lahore
+Contact Number: 03074677858
+
+🎯 Objective
+
+Create a high-quality website that showcases a large-scale embroidery production setup and encourages customers to contact directly for bulk orders.
+
+This is a wholesale production business, not a fashion brand.
+The design must communicate scale, machinery, and reliability.
+
+🎨 Design Style
+Dark industrial theme (black, charcoal, deep gray)
+Accent colors: metallic gold and subtle green tones
+Strong contrast lighting (factory-style)
+Cinematic look using overlays, gradients, and blur
+Bold typography, clean layout
+Premium but realistic, not over-styled
+🖼️ Hero Section
+Fullscreen background using embroidery machine image
+Add dark gradient overlay
+Heading:
+AR Embroidery House
+Subheading:
+High-Capacity Machine Embroidery for Wholesale & Bulk Orders
+CTA button:
+Get a Quote (scrolls to contact section)
+Optional: subtle animation (fade-in or parallax)
+🧩 Sections
+1. Production Showcase
+Grid or masonry layout of real machine images
+Hover effects (zoom + dark overlay)
+Optional labels like “High-Speed Machines”, “Bulk Threads”
+2. Capabilities Section
+
+Display in cards or icons:
+
+Large Machine Setup
+Bulk Order Handling
+Consistent Output
+
+Use subtle animations or hover effects.
+
+3. About Section
+
+Short paragraph focusing on:
+
+Experience
+Production strength
+Reliability
+
+Keep it simple and professional.
+
+4. Contact / Get a Quote
+
+No forms.
+
+Display clearly:
+
+📞 03074677858
+📍 Post Office Barki Road, Lahore
+
+Optional:
+
+WhatsApp button
+Instagram link
+5. Footer
+Dark minimal footer
+Business name
+Contact info repeated
+⚙️ Interactions
+Smooth scrolling
+Fade-in animations
+Image hover zoom
+Button hover effects
+🚫 Constraints
+No email forms
+No login or dashboard
+No unnecessary pages
+Keep it single-page and fast
+🔥 Final Goal
+
+The website should feel like a serious embroidery production facility with strong capacity, built to attract wholesale buyers.
