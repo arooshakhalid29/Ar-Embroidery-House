@@ -13,7 +13,7 @@ import gridImg5 from "@assets/WhatsApp_Image_2026-05-02_at_15.30.58_177771916394
 import gridImg6 from "@assets/WhatsApp_Image_2026-05-02_at_15.30.59_(1)_1777719163950.jpeg";
 import gridImg7 from "@assets/WhatsApp_Image_2026-05-02_at_15.30.59_1777719163952.jpeg";
 
-const queryClient = new QueryClient();
+
 
 function Navbar() {
   const [scrolled, setScrolled] = useState(false);
