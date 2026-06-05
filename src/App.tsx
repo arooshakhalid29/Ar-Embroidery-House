@@ -1,13 +1,8 @@
 import { useEffect, useRef, useState } from "react";
 import { Switch, Route, Router as WouterRouter } from "wouter";
-import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
-import { Toaster } from "@/components/ui/toaster";
-import { TooltipProvider } from "@/components/ui/tooltip";
 import { motion } from "framer-motion";
 import { MapPin, Phone, Settings, Zap, TrendingUp, CheckCircle, ArrowRight } from "lucide-react";
 import { SiWhatsapp } from "react-icons/si";
-
-import NotFound from "@/pages/not-found";
 
 import heroImg from "@assets/WhatsApp_Image_2026-05-02_at_15.30.57_(1)_1777719163939.jpeg";
 import gridImg1 from "@assets/WhatsApp_Image_2026-05-02_at_15.30.57_(1)_1777719163939.jpeg";
@@ -585,17 +580,13 @@ function Router() {
     </Switch>
   );
 }
-
 function App() {
   return (
-    <QueryClientProvider client={queryClient}>
-      <TooltipProvider>
-        <WouterRouter base={import.meta.env.BASE_URL.replace(/\/$/, "")}>
-          <Router />
-        </WouterRouter>
-        <Toaster />
-      </TooltipProvider>
-    </QueryClientProvider>
+    <WouterRouter base={import.meta.env.BASE_URL?.replace(/\/$/, "") ?? ""}>
+      <Switch>
+        <Route path="/" component={Home} />
+      </Switch>
+    </WouterRouter>
   );
 }
 
